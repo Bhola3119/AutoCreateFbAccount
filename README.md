@@ -9,7 +9,7 @@
 
 * `cd AutoCreateFbAccount`
 
-* * `chmod 777 AutoCreate`
+* `chmod 777 AutoCreate`
 
 * `./AutoCreate`
 
